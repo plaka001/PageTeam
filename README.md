@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot]([https://github.com/plaka001/PageNotFound/blob/main/assets/Screenshot.png](https://github.com/plaka001/PageTeam/blob/master/demo.png))
+![screenshot](https://github.com/plaka001/PageNotFound/blob/main/assets/Screenshot.png](https://github.com/plaka001/PageTeam/blob/master/demo.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
